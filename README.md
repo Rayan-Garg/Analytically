@@ -1,5 +1,4 @@
-# Analytically
-Modern EHR App with predictive statistics, automation, etc. 
+# Analytically 
 
 Analytically is a modern EHR App that aims to reduce physician's documentation times by reducing documentation difficulty and integrating artificial intelligence. In the long term, Analytically aim to convert doctor-patient conversations to text and then generate summarizations and carry out actions dependent on the conversations(such as billing, etc.). 
 
